@@ -21,7 +21,7 @@ Pour tester l'appli, réalisez les processus suivants :
 
 - pour copier le repo sur votre machine
 
-    git clone https://github.com/TheFSilver/Doctolib.git
+    git clone https://github.com/Cyran0/Doctolib.git
 
 - pour se déplacer dans le bon dossier
 
